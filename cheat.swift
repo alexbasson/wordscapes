@@ -1,3 +1,5 @@
+#!/usr/bin/swift
+
 import Cocoa
 
 extension String {
