@@ -45,7 +45,7 @@ let filteredWords = words
     .filter({ word in return word.allSatisfy { char in word.containsNoMoreOccurrences(of: char, thanDoes: letters) } })
 
 if (filteredWords.count > 0) {
-    print("Found words:")
+    print("Found \(filteredWords.count) words:")
     for word in filteredWords {
         print(word)
     }
