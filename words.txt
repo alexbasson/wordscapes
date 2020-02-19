@@ -814,7 +814,6 @@ airpost
 airs
 airship
 airsick
-airt
 airted
 airth
 airthed
@@ -33737,7 +33736,6 @@ rakeoff
 raker
 rakers
 rakes
-raki
 raking
 rakis
 rakish
@@ -33980,7 +33978,6 @@ ratlike
 ratlin
 ratline
 ratlins
-rato
 ratoon
 ratoons
 ratos
@@ -35902,7 +35899,6 @@ rostral
 rostrum
 rosy
 rot
-rota
 rotary
 rotas
 rotate
@@ -42279,7 +42275,6 @@ tarns
 taro
 taroc
 tarocs
-tarok
 taroks
 taros
 tarot
@@ -43396,7 +43391,6 @@ tirl
 tirled
 tirling
 tirls
-tiro
 tiros
 tis
 tisane
@@ -43751,7 +43745,6 @@ toques
 toquet
 toquets
 tor
-tora
 torah
 torahs
 toras
@@ -43765,7 +43758,6 @@ tore
 torero
 toreros
 tores
-tori
 toric
 tories
 torii
@@ -43984,7 +43976,6 @@ tragedy
 tragi
 tragic
 tragus
-traik
 traiked
 traiks
 trail
@@ -44250,7 +44241,6 @@ trivets
 trivia
 trivial
 trivium
-troak
 troaked
 troaks
 trocar
