@@ -5489,7 +5489,6 @@ bubo
 buboed
 buboes
 bubonic
-bubs
 buccal
 buck
 bucked
@@ -5577,8 +5576,6 @@ bugsha
 bugshas
 buhl
 buhls
-buhr
-buhrs
 build
 builded
 builder
@@ -5723,7 +5720,6 @@ buoying
 buoys
 buqsha
 buqshas
-bur
 bura
 buran
 burans
@@ -5735,6 +5731,7 @@ burbles
 burbly
 burbot
 burbots
+burbs
 burd
 burden
 burdens
@@ -5827,7 +5824,6 @@ burrow
 burrows
 burrs
 burry
-burs
 bursa
 bursae
 bursal
@@ -35256,7 +35252,6 @@ rhumb
 rhumba
 rhumbas
 rhumbs
-rhus
 rhuses
 rhyme
 rhymed
@@ -38151,7 +38146,6 @@ shrew
 shrewd
 shrewed
 shrews
-shri
 shriek
 shrieks
 shrieky
@@ -40356,7 +40350,6 @@ squush
 sraddha
 sradha
 sradhas
-sri
 sris
 stab
 stabbed
